@@ -1,0 +1,16 @@
+nav{
+    height: 70px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    box-shadow: 1px 1px 13px grey;
+}
+.logo{
+    width: 110px;
+    float: left;
+    margin: 5px;}   
+}
+.link{
+    
+}
