@@ -1,7 +1,7 @@
 element1 element2 {}
 
 .jumbotron {
-  background-image: url(UX-UIProTools.github.io/Bootstrap_Customize 2/Unsolved/images/rockOn_dark.jpg);
+  background-image: url("UX-UIProTools.github.io/Bootstrap_Customize%2/Unsolved/images/rockOn_dark.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 500px;
