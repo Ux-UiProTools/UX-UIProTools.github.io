@@ -1,7 +1,7 @@
 element1 element2 {}
 
 .jumbotron {
-  background-image: url(/Users/daniel/Documents/00-MyCode/UX-UIProTools.github.io/Bootstrap_Customize 2/Unsolved/images/rockOn_dark.jpg);
+  background-image: url(UX-UIProTools.github.io/Bootstrap_Customize 2/Unsolved/images/rockOn_dark.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 500px;
@@ -38,10 +38,11 @@ element1 element2 {}
 }
 
 .emailContain {
-  background: url(/Users/daniel/Documents/00-MyCode/UX-UIProTools.github.io/Bootstrap_Customize 2/Unsolved/images/emailBG.jpg);
+  background: url(UX-UIProTools.github.io/Bootstrap_Customize 2/Unsolved/images/emailBG.jpg);
   background-size: cover;
   display: flex;
   align-items: center;
+  jus
 }
 
 .content {
