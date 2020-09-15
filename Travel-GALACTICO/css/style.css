@@ -1,0 +1,104 @@
+.jumbotron {
+    background-image: url(../images/Galactico-HERO.jpg);
+    background-size: cover;
+    height: fit-content;
+}
+
+.containerjbt {
+}
+
+.navbar {
+
+}
+
+.navbar-nav {
+
+}
+
+h1 {
+    color: whitesmoke;
+    text-align: center;
+    -webkit-text-stroke: 1px rgb(54, 75, 95);
+}
+
+h4 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    
+}
+
+h3 {
+    color: rgb(255, 210, 9);
+    text-align: center;
+}
+
+/* add tablet sizing */
+
+.popDest {
+    background-image: url(../images/popDest-background-CROPPED-OPAQUE-55.jpg);
+    background-repeat: no-repeat;
+    margin: 21px;
+}
+
+.card1  {
+    height: 455px;
+    margin-bottom: 55px;
+    background-image: url(../images/bookYourFlight-DARKENED.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.card2  {
+    height: 455px;
+    margin-bottom: 55px;
+    background-image: url(../images/MakeAReservation-DARKENED.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.card3  {
+    height: 455px;
+    margin-bottom: 55px;
+    background-image: url(../images/PlanYourDestination-DARKENED.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.card-img-overlay {
+    margin-top: 55%;
+    margin-left: 13%;
+    margin-right: 25%;
+}
+/* add tablet sizing */
+
+.card4  {
+    height: 300px;
+    padding: 21px;
+
+}
+
+.card5  {
+    height: 300px;
+    padding: 21px;
+}
+
+.card6  {
+    height: 300px;
+    padding: 21px;
+}
+
+.card-body {
+
+}
+
+.card-text {
+    margin: 13px;
+    color: blacks;
+}
+
+.floating-box {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 3px 3px 8px rgb(177, 177, 177);
+}
+
+.card {}

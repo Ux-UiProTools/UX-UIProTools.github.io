@@ -1,4 +1,49 @@
-element1 element2 {}
+h1, h2, h3 , h4, h5, h6 {
+  font-family: 'Anton', sans-serif;
+}
+p {
+  font-family: 'Jura', sans-serif;
+}
+
+.customNav {
+  position: fixed;
+  width: 100%;
+  background: url("../images/transparency.png");
+  background-color: transparent !important;
+  background-size: cover;
+  z-index: 10;
+}
+.navbar-nav {
+  margin-left: auto;
+  margin-right: 0 !important;
+}
+.navbar-brand img {
+  padding-right: 15px;
+  width: 65px;
+}
+.nav-item {
+  margin: 0px 15px;
+}
+
+/* Navigation dropdown menu */
+.dropdown-menu {
+  background: url("../images/transparency.png");
+  background-color: transparent !important;
+  background-size: cover;
+}
+.dropdown-item:focus, .dropdown-item:hover {
+    color: #16181b;
+    text-decoration: none;
+    background: black;
+}
+
+/* Navigation links */
+.customNav a {
+  color: white !important;
+}
+.navCTA {
+  font-size: 15px;
+}
 
 .jumbotron {
   background-image: url(../images/rockOn_dark.jpg);
@@ -19,30 +64,38 @@ element1 element2 {}
   text-align: center;
 }
 
-.valueProp {
-  margin-top: 15px;
-  margin-bottom: 15px;
-}
-
 .sideAccent {
   background: rgb(11, 25, 85);
   width: 15px;
 }
-
+.imageContainer img {
+  width: 100%;
+}
 .imageContainer {
   padding: 50px;
 }
-
-.imageContainer img {
-  width: 100px;
+.valueProp {
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
-
 .emailContain {
-  background: url(UX-UIProTools.github.io/Bootstrap_Customize 2/Unsolved/images/emailBG.jpg);
+  background: url(../images/emailBG.jpg);
   background-size: cover;
   display: flex;
   align-items: center;
-  jus
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+}
+
+form {
+  width: 500px;
+  margin: 35px auto;
+  padding: 45px;
+  border: 1px solid #f2f2f2;
+  box-shadow: 0 1px black, 0 0 40px black;
+  background-color: white;
 }
 
 .content {
@@ -66,7 +119,7 @@ footer {
   line-height: 60px;
   background-color: #f5f5f5;
   margin-top: 50px;
-} 
+}
 .cardContainer {
   margin-top: 20px;
 }
